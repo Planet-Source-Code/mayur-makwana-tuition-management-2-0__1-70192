@@ -1,0 +1,16 @@
+[Version]
+Version=1.10.0.5
+
+[ARButton.ocx <000A>]
+Dest=$(WinSysPath)
+Date=26/06/2001
+Time=15:35
+Version=1.10.0.5
+CABFilename=
+Uses1=MSVBVM60.DLL
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=VB6ES.DLL
